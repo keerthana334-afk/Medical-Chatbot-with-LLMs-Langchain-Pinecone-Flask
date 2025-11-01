@@ -10,7 +10,7 @@ touch .env
 touch setup.py
 touch app.py
 touch research/trials.ipynb
-touvh requirements.txt
+touch requirements.txt
 
 
 echo "Direcctory and files created successfully!."
